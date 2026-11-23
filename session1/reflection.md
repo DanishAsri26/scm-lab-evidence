@@ -16,4 +16,4 @@ Working on a separate branch and using a pull request reduces the risk of introd
 
 Commands such as git init, git add, git commit, git branch, git switch, git merge, and git restore changed or managed my local repository on my computer. Commands such as git push uploaded my local commits to GitHub, while git clone downloaded a copy of the remote repository to my computer. The git pull command downloaded and integrated changes from GitHub into my local repository. These commands helped me understand how Git manages changes locally and how it synchronises work with a remote repository.
 
-![concept](images/concept.png)
+![concept](image/concept.png)
