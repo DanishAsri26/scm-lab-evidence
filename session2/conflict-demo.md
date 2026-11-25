@@ -1,1 +1,1 @@
-staging: TBD
+deployment target: staging
